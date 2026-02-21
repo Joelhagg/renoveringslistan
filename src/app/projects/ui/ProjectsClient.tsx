@@ -98,7 +98,7 @@ export default function ProjectsClient() {
                 </div>
 
 
-                <p className="mt-6 text-xs text-black">*Demo: Data sparas per webbläsare med ett lokalt clientId. Kvoter stoppar för många projekt och checklistor. Spara inte känslig data!</p>
+                <p className="mt-6 text-xs text-black">*Demo: Data sparas per webbläsare med ett lokalt id. Kvoter stoppar för många projekt och checklistor. Spara inte känslig data!</p>
 
             </div>
         </main>
