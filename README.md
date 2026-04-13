@@ -1,24 +1,14 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<h1>Renoveringslistan 🛠️🏠</h1>
 
-## Getting Started
+<h3>Håll koll på vad som ska göras och av vem i hushållet under en renovering!</h3>
 
-First, run the development server:
+<h3>Deployad vid Vercel, testa den här: <a href="https://renoveringslistantodo.vercel.app/" target="_blank">Renoveringslistan</a></h3>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+<p>Denna web är byggd i React som hantera front-enden, Next.js som API lager och Supabase som databas.</p>
+<p>Syfter med denna struktur är att serverrendera outputen så nära servern som möjligt vilket gör sidan snabb. Med på köpet får man ett projekt och slipper mycket av det som medförs vid att dela upp det i flera projekt.</p>
+<p>Stylingen är enkel och sköts av tailwind.</p>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
 ## Learn More
 
